@@ -9,3 +9,9 @@ I currently own a samsung GT-B2710 , which is what i base myself on to reverse. 
 I'm currently reversing the cpu firmware based on this repository : https://github.com/chinahby/1110
 
 Ill try to have this repositry as much as organized as possible. For now it will only hold writings of what i found.
+
+For now I didn't attempt anything hardware-side on the phone , but i found out that it has a jtag port (i think they call it test points ?) , i will attempt connecting to it with an arduino bridge in 2 weeks.
+
+The phone also has a Test mode that allows to go into EDL mode and do some stuff which seems interesting.
+
+For now ill try to gather as much informations on the system as i can.
